@@ -11,7 +11,7 @@ Estructura del repositorio
 
 El repositorio está organizado de la siguiente manera:
 
-practicas/: contiene las prácticas y ejercicios realizados durante las clases.
-proyectos/: contiene los proyectos desarrollados durante el curso.
+practicas: contiene las prácticas y ejercicios realizados durante las clases.
+proyectos: contiene los proyectos desarrollados durante el curso.
 README.md: contiene la información y documentación general del repositorio.
 .gitignore: indica los archivos y carpetas que Git debe ignorar.
