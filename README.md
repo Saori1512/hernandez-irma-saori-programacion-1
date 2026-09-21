@@ -30,3 +30,35 @@ Después de instalar y configurar Doki Theme, Visual Studio Code mostró una adv
 **Solución:**  
 Verifiqué que Visual Studio Code continuara funcionando correctamente después de aplicar la personalización. La advertencia apareció después de realizar las modificaciones visuales del tema.
 
+## Cómo clonar y usar el repositorio
+
+Para clonar este repositorio en otra computadora, primero se debe tener Git instalado.
+
+Después, se abre una terminal y se utiliza el siguiente comando:
+
+```bash
+git clone https://github.com/Saori1512/hernandez-irma-saori-programacion-1.git
+```
+
+Después de clonar el repositorio, se entra a la carpeta con:
+
+```bash
+cd hernandez-irma-saori-programacion-1
+```
+
+Para descargar los cambios más recientes se utiliza:
+
+```bash
+git pull
+```
+
+Para guardar y subir nuevos cambios al repositorio se utilizan los siguientes comandos:
+
+```bash
+git add .
+git commit -m "Descripción de los cambios"
+git push
+```
+
+De esta manera se pueden mantener las prácticas y proyectos actualizados y sincronizados con GitHub.
+
