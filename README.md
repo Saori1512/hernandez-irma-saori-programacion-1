@@ -3,7 +3,7 @@ Nombre del alumno: Irma Saori Hernández Salas
 Curso: Programación 1
 Grupo: Creeatividad Digital 2do semestre
 
-Propósito del repositorio
+## Propósito del repositorio
 
 Este repositorio tiene como propósito almacenar y organizar las evidencias de clase de la materia de Programación 1. Aquí se guardarán las prácticas, tareas y proyectos realizados durante el curso.
 
