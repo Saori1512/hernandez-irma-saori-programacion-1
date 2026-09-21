@@ -7,7 +7,7 @@ Propósito del repositorio
 
 Este repositorio tiene como propósito almacenar y organizar las evidencias de clase de la materia de Programación 1. Aquí se guardarán las prácticas, tareas y proyectos realizados durante el curso.
 
-Estructura del repositorio
+**Estructura del repositorio**
 
 El repositorio está organizado de la siguiente manera:
 
