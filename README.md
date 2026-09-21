@@ -1,7 +1,7 @@
 # hernandez-irma-saori-programacion-1
 Nombre del alumno: Irma Saori Hernández Salas
 Curso: Programación 1
-Grupo: Creeatividad Digital 2do semestre
+Grupo: Creatividad Digital 2do semestre
 
 ## Propósito del repositorio
 
